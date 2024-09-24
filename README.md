@@ -11,3 +11,5 @@
 を使用して下さい
 
 <サービス名>はAPI_keyを作成するときに設定したサービスを記入して下さい
+
+わからない所があれば[お問い合わせサイト](https://retportal.com/contact)や[X(旧Twitter)のDM](https://twitter.com/Retdaze)までお越し下さい
