@@ -7,6 +7,6 @@
 すべてのAPIリクエストには、有効なAPIキーをヘッダーに含める必要があります。
 
 ### エンドポイントについて
-api.retportal.com/<サービス名>/api_key=<あなたのAPI_key>
+`https://api.retportal.com/<サービス名>/api_key=<あなたのAPI_key>`
 を使用して下さい
 <サービス名>はAPI_keyを
